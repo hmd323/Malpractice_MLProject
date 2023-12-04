@@ -1,0 +1,6 @@
+# Predicting Medical Malpractice Lawsuit Payouts
+Final project for the NYU Course: Messy Data &amp; Machine Learning Spring 2023.
+
+This project aimed to practice cleaning real-world data and building machine-learning models to answer a specified research question.
+
+Our research question of interest was what are the best predictors for the probability of a malpractice case resulting in a higher payout (greater than $500,000)? The motivation behind this question was to create a learning model that could potentially be useful to insurers when assessing medical malpractice cases and setting rates.
